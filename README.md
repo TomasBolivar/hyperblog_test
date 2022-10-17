@@ -1,7 +1,5 @@
-# Hyperblog_test Readme.md
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![]]
-(https://img.shields.io/github/tag/pandao/editor.md.svg) ![]
-(https://img.shields.io/github/release/pandao/editor.md.svg)
+# Hyperblog_test
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![]](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) 
 
 ## Hyperblog_test
 This is just a **Git** and **GitHub** Platzi course test repository.
@@ -14,7 +12,7 @@ This is just a **Git** and **GitHub** Platzi course test repository.
 #### Blockquotes
 An amazing course test:
 > "Top execution, I loved this course test, he best I've seen!"
-
+>
 >  _Random Person #1
 
 ------------
