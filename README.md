@@ -1,5 +1,5 @@
 # Hyperblog_test
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![]](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) 
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) 
 
 ## Hyperblog_test
 This is just a **Git** and **GitHub** Platzi course test repository.
