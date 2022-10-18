@@ -8,6 +8,7 @@ This is just a **Git** and **GitHub** Platzi course test repository.
 - Git exercises.
 - GitHub exercises, Code syntax.
 - Not much more.
+- Loads of learning of course.
 
 #### Blockquotes
 An amazing course test:
