@@ -9,6 +9,7 @@ This is just a **Git** and **GitHub** Platzi course test repository.
 - GitHub exercises, Code syntax.
 - Not much more.
 - Loads of learning of course.
+- Mostly done for Windows environment.
 
 #### Blockquotes
 An amazing course test:
